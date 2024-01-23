@@ -8,5 +8,7 @@ namespace Test1
 {
     internal class HocSinh
     {
+        //Nguyenkhanhduy
+        //sua class neu bi sai
     }
 }
